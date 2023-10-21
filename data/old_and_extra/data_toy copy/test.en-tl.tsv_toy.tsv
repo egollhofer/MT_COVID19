@@ -1,0 +1,3 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id
+0	en	tl	 about how long have these symptoms been going on? 	mga gaano na katagal ang mga sintomas na ito?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN
+1	en	tl	 and all chest pain should be treated this way especially with your age 	at lahat ng pananakit sa dibdib ay dapat na tratuhin sa ganitong paraan lalo na sa iyong edad	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tlVExN

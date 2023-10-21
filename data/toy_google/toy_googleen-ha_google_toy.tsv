@@ -1,0 +1,6 @@
+	Unnamed: 0	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id	translated
+0	0	en	ha	 about how long have these symptoms been going on? 	kusan tsawon lokacin ne waɗannan alamun ke gudana?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	haWUk=	kusan tsawon yaushe waɗannan alamun ke faruwa?
+1	1	en	ha	 and all chest pain should be treated this way especially with your age 	kuma ya kamata a yi jiyya ga duk ciwon ƙirji ta wannan hanyar, musamman saboda shekarun ku	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	haWUk=	kuma duk ciwon kirji ya kamata a bi da shi ta wannan hanyar musamman tare da shekarun ku
+2	2	en	ha	 and along with a fever 	kuma tare da zazzabi	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	haWUk=	kuma tare da zazzabi
+3	3	en	ha	 and also needs to be checked your cholesterol blood pressure 	sannan kuma yana bukatar a binciki hawan jini na cholesterol	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	haWUk=	kuma yana buƙatar a duba hawan jini na cholesterol
+4	4	en	ha	 and are you having a fever now? 	kuma kuna da zazzabi yanzu	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	haWUk=	kuma kina da zazzabi yanzu?

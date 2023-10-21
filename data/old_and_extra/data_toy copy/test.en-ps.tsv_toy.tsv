@@ -1,0 +1,3 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+0	en	ps	about how long have these symptoms been going on?	دغه علايم له څومره مودې راهيسې ادامه لري؟	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+1	en	ps	and all chest pain should be treated this way especially with your age	په خاصه بیا ستاسو عمر ته په کتو سره د سینې د ټول درد باید پدې ډول درملنه وشي.	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk

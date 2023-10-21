@@ -1,0 +1,6 @@
+	Unnamed: 0	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID	translated
+0	0	en	ps	about how long have these symptoms been going on?	دغه علايم له څومره مودې راهيسې ادامه لري؟	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	دا نښې نښانې له څومره وخت راهیسې روانې دي؟
+1	1	en	ps	and all chest pain should be treated this way especially with your age	په خاصه بیا ستاسو عمر ته په کتو سره د سینې د ټول درد باید پدې ډول درملنه وشي.	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	او د سینې ټول دردونه باید پدې ډول درملنه وشي په ځانګړي توګه ستاسو د عمر سره
+2	2	en	ps	and along with a fever	او له تبی سره	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	او د تبې سره
+3	3	en	ps	and also needs to be checked your cholesterol blood pressure	او ستاسو د کوليسترول او وینې فشار معاینه هم باید ترسره شی.	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	او همدارنګه ستاسو د کولیسټرول وینې فشار معاینه کولو ته اړتیا لري
+4	4	en	ps	and are you having a fever now?	او ایا تاسو اوس تبه لرئ ؟	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	او تاسو اوس تبه لرئ؟

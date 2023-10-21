@@ -1,0 +1,6 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+0	en	hi	 about how long have these symptoms been going on? 	ये लक्षण लगभग कितने समय से चल रहे हैं?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+1	en	hi	 and all chest pain should be treated this way especially with your age 	और विशेष रूप से आपकी आयु वाले व्यक्तियों में छाती में दर्द होने के सभी मामलों का उपचार इस तरह से किया जाना चाहिए	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+2	en	hi	 and along with a fever 	और बुखार के साथ	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+3	en	hi	 and also needs to be checked your cholesterol blood pressure 	और आपके कोलेस्ट्रॉल रक्तचाप की जाँच भी की जानी चाहिए	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL
+4	en	hi	 and are you having a fever now? 	और क्या आपको अभी बुखार है?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL

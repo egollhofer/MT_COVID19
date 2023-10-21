@@ -1,0 +1,3 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+0	en	id	about how long have these symptoms been going on?	sudah berapa lama gejala-gejala ini berlangsung?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk
+1	en	id	and all chest pain should be treated this way especially with your age	dan semua nyeri dada harus ditangani dengan cara ini terutama di usia Anda	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk

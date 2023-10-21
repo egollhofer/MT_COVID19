@@ -1,0 +1,6 @@
+	Unnamed: 0	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id	translated
+0	0	en	bn	 about how long have these symptoms been going on? 	আনুমানিক কতদিন ধরে এই লক্ষণগুলি চলছে?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	bnU0I=	[' এই লক্ষণগুলি কতদিন ধরে চলছে? ']
+1	1	en	bn	 and all chest pain should be treated this way especially with your age 	এবং সমস্ত বুকে ব্যাথা এইভাবে চিকিৎসা করা উচিৎ বিশেষ করে আপনার বয়সে	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	bnU0I=	[' এবং সমস্ত বুকে ব্যথা এইভাবে চিকিত্সা করা উচিত বিশেষত আপনার বয়সের সাথে ']
+2	2	en	bn	 and along with a fever 	আর তার সাথে জ্বরও	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	bnU0I=	[' এবং জ্বরের সাথে ']
+3	3	en	bn	 and also needs to be checked your cholesterol blood pressure 	আর আপনার কোলেস্টেরল এবং রক্তচাপও পরীক্ষা করতে হবে	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	bnU0I=	[' এবং আপনার কোলেস্টেরল রক্তচাপও পরীক্ষা করা দরকার ']
+4	4	en	bn	 and are you having a fever now? 	আর আপনার কি এখন জ্বর আছে?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	bnU0I=	[' আপনার কি এখন জ্বর হচ্ছে? ']

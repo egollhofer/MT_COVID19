@@ -1,0 +1,3 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+0	en	ckb	about how long have these symptoms been going on?	ئەم نیشانانه لە کەیەوە بوونیان هەیە؟	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001
+1	en	ckb	and all chest pain should be treated this way especially with your age	وه لەگەڵ هەموو ئازارێکی سنگ دەبێت بەم شێوەیە مامەڵه بکرێت بەتایبەت لە تەمەنی تۆدا	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_ku_0001

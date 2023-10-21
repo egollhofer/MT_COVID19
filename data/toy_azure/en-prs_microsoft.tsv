@@ -1,0 +1,6 @@
+	Unnamed: 0	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id	translated
+0	0	en	prs	 about how long have these symptoms been going on? 	 این علایم برای چی مدتی وجود داشته است؟ 	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	prsRkE=	[' در مورد چه مدت این علائم در جریان بوده است؟ ']
+1	1	en	prs	 and all chest pain should be treated this way especially with your age 	 و تمام درد قفس صدر باید به خصوص در سن شما به این شیوه تداوی شود 	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	prsRkE=	[' و تمام درد قفسه سینه باید به این ترتیب درمان شود به خصوص با سن شما ']
+2	2	en	prs	 and along with a fever 	 و همراه با تب 	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	prsRkE=	[' و همراه با تب ']
+3	3	en	prs	 and also needs to be checked your cholesterol blood pressure 	 و همچنان فشار خون و کلسترول شما باید بررسی شود 	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	prsRkE=	[' و همچنین نیاز به بررسی فشار خون کلسترول خود را ']
+4	4	en	prs	 and are you having a fever now? 	 و آیا شما الان درد قفس صدر دارید؟ 	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	prsRkE=	[' و حالا تب داري؟ ']

@@ -1,0 +1,6 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id
+0	en	ti	 about how long have these symptoms been going on? 	 እዞም ምልክታት ካብ ዝጅምሩ ክንደይ ጊዜ ኮይኑዎም? 	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiaHR0
+1	en	ti	 and all chest pain should be treated this way especially with your age 	 ኩሉ ዓይነት ናይ ደረት ቃንዛ ብኸምዚ ዓይነቱ እዩ ክሕከም ዝግብኦ፣ ብተለይ ብናትካ/ኪ ዕድመ 	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiaHR0
+2	en	ti	 and along with a fever 	 ምስ ረስኒ ብሓደ 	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiaHR0
+3	en	ti	 and also needs to be checked your cholesterol blood pressure 	 ብተወሳኺ ናይ ኮሌስትሮልካን ናይ ደም ጸቕጢኻን እውን ክልካዕ ኣለዎ 	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiaHR0
+4	en	ti	 and are you having a fever now? 	 ሐዚ ረስኒ ኣለካ/ኪ ዶ? 	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiaHR0

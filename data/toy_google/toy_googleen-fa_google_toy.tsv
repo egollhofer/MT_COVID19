@@ -1,0 +1,6 @@
+	Unnamed: 0	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID	translated
+0	0	en	fa	about how long have these symptoms been going on?	تقریباً چه مدت است که این علایم ادامه دارد؟	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	در مورد چه مدت این علائم ادامه دارد؟
+1	1	en	fa	and all chest pain should be treated this way especially with your age	و به خصوص با توجه به سن شما، باید با تمام دردهای قفسه سینه به این شکل رفتار شود	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	و تمام دردهای قفسه سینه باید با این روش درمان شوند، به خصوص با توجه به سن شما
+2	2	en	fa	and along with a fever	و همراه با تب	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	و همراه با تب
+3	3	en	fa	and also needs to be checked your cholesterol blood pressure	و همچنین نیاز است که کلسترول و فشار خون شما بررسی شود	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	و همچنین باید فشار خون کلسترول خود را بررسی کنید
+4	4	en	fa	and are you having a fever now?	و آیا شما اکنون تب دارید؟	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	unk	و الان تب داری؟

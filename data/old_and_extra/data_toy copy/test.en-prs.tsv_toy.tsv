@@ -1,0 +1,3 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id
+0	en	prs	 about how long have these symptoms been going on? 	 این علایم برای چی مدتی وجود داشته است؟ 	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	prsRkE=
+1	en	prs	 and all chest pain should be treated this way especially with your age 	 و تمام درد قفس صدر باید به خصوص در سن شما به این شیوه تداوی شود 	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	prsRkE=

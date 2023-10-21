@@ -1,0 +1,6 @@
+	Unnamed: 0	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID	translated
+0	0	en	ar	 about how long have these symptoms been going on? 	منذ متى لا تزال هذه الأعراض مستمرة تقريبًا؟	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL	حول كم من الوقت استمرت هذه الأعراض؟
+1	1	en	ar	 and all chest pain should be treated this way especially with your age 	وينبغي علاج كل آلام الصدر بهذه الطريقة خاصة في عمرك	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL	وكل آلام الصدر يجب أن تعالج بهذه الطريقة خاصة مع عمرك
+2	2	en	ar	 and along with a fever 	وبالإضافة إلى الحمى	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL	ومع الحمى
+3	3	en	ar	 and also needs to be checked your cholesterol blood pressure 	ويلزم أيضًا فحص ضغط كوليسترول الدم لديك	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL	ويحتاج أيضًا إلى فحص ضغط دم الكوليسترول
+4	4	en	ar	 and are you having a fever now? 	وهل تعاني من الحمى الآن؟	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	TOFILL	وهل لديك حمى الان؟

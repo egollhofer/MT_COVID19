@@ -1,0 +1,6 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_id
+0	en	my	 about how long have these symptoms been going on? 	ဒီရောဂါလက္ခဏာတွေ ဖြစ်နေတာ ဘယ်လောက် ကြာသွားပြီလဲ	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+1	en	my	 and all chest pain should be treated this way especially with your age 	နောက်ပြီး အထူးသဖြင့် ခင်ဗျား ရဲ့ အသက်အရွယ်မှာ ရင်ဘတ်အောင့်တာ အားလုံးကို ဒီနည်းနဲ့ ကုသရပါတယ်	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+2	en	my	 and along with a fever 	နောက်ပြီး ဖျားလည်း ဖျားနေတယ်	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+3	en	my	 and also needs to be checked your cholesterol blood pressure 	နောက်ပြီး ခင်ဗျားရဲ့ ကိုလက်စထရောနဲ့ သွေးပေါင်ချိန်ကို စစ်ဆေးဖို့လည်း လိုတယ်	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=
+4	en	my	 and are you having a fever now? 	နောက် ခင်ဗျားမှာ အခု အဖျား ရှိနေလား	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	myTlM=

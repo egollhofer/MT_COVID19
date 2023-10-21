@@ -1,0 +1,6 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+0	en	so	about how long have these symptoms been going on?	muddo intee dhan ayay calaamadahan socdeen?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_so_0001
+1	en	so	and all chest pain should be treated this way especially with your age	dhamaan feera xanuunka waa in loo daweeyo sidan gaar ahaan da'daada oo kale	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_so_0001
+2	en	so	and along with a fever	iyo ay weheliso qandho	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_so_0001
+3	en	so	and also needs to be checked your cholesterol blood pressure	sidoo kale waxaad u baahanyahay in lagaa hubiyo kolesteroolka dhiig karka	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_so_0001
+4	en	so	and are you having a fever now?	hadda qandho miyaad leedahay?	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_so_0001

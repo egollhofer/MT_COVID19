@@ -1,0 +1,3 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+0	en	pt-BR	about how long have these symptoms been going on?	por aproximadamente quanto tempo esses sintomas tem ocorrido?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001
+1	en	pt-BR	and all chest pain should be treated this way especially with your age	e a dor no peito deve ser tratada assim, principalmente na sua idade	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_pt-BR_0001

@@ -1,0 +1,6 @@
+	Unnamed: 0	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID	translated
+0	0	en	ti	 about how long have these symptoms been going on? 	ክንደይ ጊዜ ኮይኑዎም ዞም ምልክታት ካብዚጅምሩ	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiTklT	ብዛዕባ እዚ ምልክታት እዚ ካብ ዝቕጽል ክንደይ ግዜ ኮይኑ?
+1	1	en	ti	 and all chest pain should be treated this way especially with your age 	ኩሉ ኣይነት ናይ ደረት ቃንዛ ብከምዚ እዩ ኪትሃዝ ዚግብኦ፣ ብተለይ ብናትካ/ኪ/ኩም እድመ	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiTklT	ከምኡ’ውን ኩሉ ቃንዛ ኣፍልቢ ብፍላይ ምስ ዕድመኻ በዚ ኣገባብ ክሕከም ኣለዎ።
+2	2	en	ti	 and along with a fever 	ምስ ትኩሳት	CMU_1:3	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiTklT	ምስ ሰዓል ድማ
+3	3	en	ti	 and also needs to be checked your cholesterol blood pressure 	ብተወሳኪ ናይ ኮሌስትሮልን ደም ግፍኢ ኪልካእ ኣለዎ	CMU_1:4	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiTklT	ከምኡ’ውን ጸቕጢ ደም ኮለስትሮልካ ምፍታሽ የድሊ
+4	4	en	ti	 and are you having a fever now? 	ህዚ ትኩሳት ኣለካ/ኪ/ኩም	CMU_1:5	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	tiTklT	ሕጂ ድማ ሰዓል ኣለካ ድዩ?

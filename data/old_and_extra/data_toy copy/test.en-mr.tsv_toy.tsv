@@ -1,0 +1,3 @@
+	sourceLang	targetLang	sourceString	targetString	stringID	url	license	translator_ID
+0	en	mr	about how long have these symptoms been going on?	ही लक्षणे किती दिवसांपासून दिसत आहेत?	CMU_1:1	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
+1	en	mr	and all chest pain should be treated this way especially with your age	आणि छातीच्या सर्व दुखण्यांवर या पद्धतीने उपचार करायला हवा, विशेषत: आपल्या वयोगटाकरता	CMU_1:2	http://www.speech.cs.cmu.edu/haitian/text/1600_medical_domain_sentences.en	public	en_mr_0001
