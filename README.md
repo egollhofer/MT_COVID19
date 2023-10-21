@@ -4,7 +4,7 @@ This repository was created as part of a class project for LING575 (Language Tec
 This project evaluates the efficacy of commercially available machine translation tools on COVIT-19 related content.  For details of the findings, please reference the final report in this directory.
 
 
-This readme was submitted to ensure graders were able to replicate my results.
+# The following readme was submitted to ensure graders were able to replicate my results.
 
 ### This code has been tested on Patas using a virtual enviroment
 To set up your environment, please follow the steps described below:
