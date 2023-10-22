@@ -1,4 +1,4 @@
-# LT4CPR
+# Machine Translation for Pandemic Response
 
 This repository was created as part of a class project for LING575 (Language Technology for Crisis Response) at the University of Washington.
 This project evaluates the efficacy of commercially available machine translation tools on COVID-19 related content obtained from [Translation Initiative for COVID-19](https://tico-19.github.io/).  For details of the findings, please reference the [final report](https://github.com/egollhofer/MT_COVID19/blob/main/Final_report.pdf).
