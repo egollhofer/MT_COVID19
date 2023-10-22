@@ -1,7 +1,7 @@
 # LT4CPR
 
 This repository was created as part of a class project for LING575 (Language Technology for Crisis Response) at the University of Washington.
-This project evaluates the efficacy of commercially available machine translation tools on COVIT-19 related content.  For details of the findings, please reference the final report in this directory.
+This project evaluates the efficacy of commercially available machine translation tools on COVIT-19 related content obtained from https://tico-19.github.io/.  For details of the findings, please reference the final report in this directory.
 
 
 # The following readme was submitted to ensure graders were able to replicate my results.
